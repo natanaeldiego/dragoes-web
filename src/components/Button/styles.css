@@ -1,0 +1,17 @@
+
+button {
+  background: var(--bs-primary);
+  height: 56px;
+  border-radius: 8px;
+  border: 0;
+  padding: 0 16px;
+  color: var(--bs-white);
+  width: 100%;
+  font-weight: 500;
+  margin-top: 16px;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background: var(--bs-purple);
+}
